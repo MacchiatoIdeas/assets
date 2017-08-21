@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 326.4 500" style="enable-background:new 0 0 326.4 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{display:none;fill:url(#Final_1_);}
+	.st2{fill:url(#Final_Final_1_);}
+	.st3{display:none;fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<polygon id="Play_Original" class="st0" points="43.9,412.1 43.9,87.9 244.1,250 "/>
+<path id="XMLID_2_" class="st0" d="M43.9,87.9"/>
+<path id="Play_2_" class="st0" d="M43.9,87.9"/>
+<linearGradient id="Final_1_" gradientUnits="userSpaceOnUse" x1="23" y1="250" x2="264.1104" y2="250">
+	<stop  offset="0" style="stop-color:#4CA2E8"/>
+	<stop  offset="1" style="stop-color:#00A7AA"/>
+</linearGradient>
+<path id="Final" class="st1" d="M43.9,432.1c-2.9,0-6.3-0.6-9-1.9c-7-3.3-11.8-10.3-11.8-18.1V159.7c0-11,9-20,20-20s20,9,20,20
+	v210.5L211.9,250L31.1,103.5c-8.6-6.9-9.8-19.5-2.9-28.1c7-8.6,19.6-9.9,28.2-3l200.3,162.1c4.7,3.8,7.4,9.5,7.4,15.5
+	c0,6-2.7,11.7-7.4,15.5L56.5,427.6C52.8,430.6,48.4,432.1,43.9,432.1z"/>
+<linearGradient id="Final_Final_1_" gradientUnits="userSpaceOnUse" x1="0" y1="250" x2="326.4355" y2="250">
+	<stop  offset="0" style="stop-color:#4CA2E8"/>
+	<stop  offset="1" style="stop-color:#00A7AA"/>
+</linearGradient>
+<path id="Final_Final" class="st2" d="M22.9,500c-3.3,0-6.8-0.7-9.9-2.2C5.1,494,0,486,0,477.3V123.4c0-12.6,9.9-22.7,22.5-22.7
+	S45,110.8,45,123.4v306.3L267.3,250L8.5,40.4c-9.8-7.9-11.2-22.2-3.3-32c7.9-9.8,22.3-11.3,32-3.4L318,232.3
+	c5.3,4.3,8.4,10.8,8.4,17.7c0,6.9-3.1,13.4-8.4,17.7L37.2,494.9C33.1,498.3,28,500,22.9,500z"/>
+<polyline id="Play" class="st3" points="20.2,50 267.3,250 20.2,450 20.2,138.6 "/>
+</svg>
